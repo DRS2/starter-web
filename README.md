@@ -26,4 +26,4 @@ This is an example to show different parts of the Git repository and various com
 
 ## Copyright
 
-Git. Sonia DR
+2018 - Git. Sonia DR
