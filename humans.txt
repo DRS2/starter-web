@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sonia DR sdr@gmail.com
 
 # THANKS
 
