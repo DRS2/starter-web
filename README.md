@@ -24,6 +24,8 @@ This is an example to show different parts of the Git repository and various com
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ## Copyright
 
 2018 - Git. Sonia DR
